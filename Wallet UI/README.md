@@ -1,2 +1,2 @@
 # 📱 Simulator Screenshot - Medium Phone API 36.0
-<img width="375" height="836" alt="image" src="https://github.com/user-attachments/assets/9446708d-24e4-4384-9471-4d46be8b8652" />
+<img width="375" height="837" alt="image" src="https://github.com/user-attachments/assets/43004013-4bf1-4570-b673-57019508a7cb" />
