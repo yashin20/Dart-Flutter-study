@@ -1,2 +1,1 @@
-# Dart-Flutter-study
-Dart / Flutter Study Blog Repository
+# 📱 Simulator Screenshot - Medium Phone API 36.0
